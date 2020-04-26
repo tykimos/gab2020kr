@@ -45,7 +45,7 @@
 |------|--------|----------|----------|
 | [친절한 사육사의 좌충우돌 동물의 숲 앱 만들기](https://github.com/krazure/gab2020kr/issues/32) | [전미정](https://github.com/krazure/gab2020kr/issues/17) | 링크 | 링크 |
 | [Azure Emotion API UWP 프로그래밍 Step By Step](https://github.com/krazure/gab2020kr/issues/33) | [김도균](https://github.com/krazure/gab2020kr/issues/12) | 링크 | 링크 |
-| [강의 제목](https://github.com/krazure/gab2020kr/issues/35) | [김태영](https://github.com/krazure/gab2020kr/issues/34) | 링크 | 링크 |
+| [시계열 데이터 예측을 위한 AutoML 만들어보기](https://github.com/krazure/gab2020kr/issues/35) | [김태영](https://github.com/krazure/gab2020kr/issues/34) | [링크](https://tykimos.github.io/2020/04/25/TimeSeriesForcast_Azure_AutoML/) | 링크 |
 | [IoT 를 위한 Azure Sphere 활용](https://github.com/krazure/gab2020kr/issues/36) | [윤기석](https://github.com/krazure/gab2020kr/issues/13) | 링크 | 링크 |
 | [라즈베리파이와 Azure로 실습장 만들기](https://github.com/krazure/gab2020kr/issues/37) | [김영욱](https://github.com/krazure/gab2020kr/issues/16) | 링크 | 링크 |
 
